@@ -20,24 +20,23 @@
               "icon": "lucide-file",
               "title": "README"
             }
-          }
-        ]
-      },
-      {
-        "id": "45010fbc56226978",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "8a14e9fa3d843e1c",
+            "id": "812ec874da27cf89",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "plantilla.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "plantilla"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "plantilla.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for plantilla"
             }
           },
           {
@@ -129,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "plantilla.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from plantilla"
             }
           },
           {
@@ -172,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "plantilla.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of plantilla"
             }
           }
         ]
@@ -199,10 +198,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "869d9cbb28160b5d",
+  "active": "812ec874da27cf89",
   "lastOpenFiles": [
-    "picoCTF/1-General Skills/1-Lets Warm Up.md",
     "README.md",
+    "picoCTF/1-General Skills/1-Lets Warm Up.md",
+    "plantilla.md",
     "picoCTF/1-General Skills",
     "Untitled",
     "picoCTF"
