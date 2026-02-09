@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plantilla.md",
+                "file": "picoCTF/1-General Skills/10-plumbing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "plantilla"
+              "title": "10-plumbing"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "plantilla.md",
+                "file": "picoCTF/1-General Skills/10-plumbing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for plantilla"
+              "title": "Backlinks for 10-plumbing"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "plantilla.md",
+                "file": "picoCTF/1-General Skills/10-plumbing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from plantilla"
+              "title": "Outgoing links from 10-plumbing"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "plantilla.md",
+                "file": "picoCTF/1-General Skills/10-plumbing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of plantilla"
+              "title": "Outline of 10-plumbing"
             }
           }
         ]
@@ -200,11 +200,20 @@
   },
   "active": "812ec874da27cf89",
   "lastOpenFiles": [
-    "README.md",
+    "picoCTF/1-General Skills/9-what's a net cat.md",
+    "picoCTF/1-General Skills/10-plumbing.md",
+    "picoCTF/1-General Skills/8-Obedient Cat.md",
+    "picoCTF/1-General Skills/7-Nice netcat....md",
+    "picoCTF/1-General Skills/5-First Grep.md",
+    "picoCTF/1-General Skills/4-Bases.md",
+    "picoCTF/1-General Skills/6-Glitch Cat.md",
     "picoCTF/1-General Skills/1-Lets Warm Up.md",
+    "picoCTF/1-General Skills/3-Warmed Up.md",
+    "picoCTF/1-General Skills/2-2warm.md",
     "plantilla.md",
-    "picoCTF/1-General Skills",
     "Untitled",
+    "README.md",
+    "picoCTF/1-General Skills",
     "picoCTF"
   ]
 }
