@@ -15,7 +15,7 @@ picoCTF{digital_plumb3r_00da27CC}
 
 #### Solución 2
 ```
-DAVEst-picoctf@webshell:~$ nc fickle-tempest.picoctf.net 54542 | picoCTF
+DAVEst-picoctf@webshell:~$ nc fickle-tempest.picoctf.net 54542 | grep picoCTF
 picoCTF{digital_plumb3r_00da27CC}
 ```
 
