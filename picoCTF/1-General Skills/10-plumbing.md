@@ -12,6 +12,14 @@ picoCTF{digital_plumb3r_00da27CC}
 ```
 
 picoCTF{digital_plumb3r_00da27CC}
+
+#### Solución 2
+```
+DAVEst-picoctf@webshell:~$ nc fickle-tempest.picoctf.net 54542 | picoCTF
+picoCTF{digital_plumb3r_00da27CC}
+```
+
+picoCTF{digital_plumb3r_00da27CC}
 ### Notas adicionales
 
 ### Referencias
