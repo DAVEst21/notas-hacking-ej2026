@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/1-General Skills/10-plumbing.md",
+                "file": "picoCTF/2-General Skills 2/7-Magikarp Ground Mission.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10-plumbing"
+              "title": "7-Magikarp Ground Mission"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/1-General Skills/10-plumbing.md",
+                "file": "picoCTF/2-General Skills 2/7-Magikarp Ground Mission.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 10-plumbing"
+              "title": "Backlinks for 7-Magikarp Ground Mission"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/1-General Skills/10-plumbing.md",
+                "file": "picoCTF/2-General Skills 2/7-Magikarp Ground Mission.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 10-plumbing"
+              "title": "Outgoing links from 7-Magikarp Ground Mission"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/1-General Skills/10-plumbing.md",
+                "file": "picoCTF/2-General Skills 2/7-Magikarp Ground Mission.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 10-plumbing"
+              "title": "Outline of 7-Magikarp Ground Mission"
             }
           }
         ]
@@ -200,8 +200,21 @@
   },
   "active": "812ec874da27cf89",
   "lastOpenFiles": [
-    "picoCTF/1-General Skills/9-what's a net cat.md",
+    "picoCTF/2-General Skills 2/6-Tab, Tab, Attack 1.md",
+    "picoCTF/2-General Skills 2/7-Magikarp Ground Mission.md",
+    "picoCTF/2-General Skills 2/6-Tab, Tab, Attack.md",
+    "picoCTF/2-General Skills 2/8-repetitions.md",
+    "picoCTF/2-General Skills 2/9-Big Zip.md",
+    "picoCTF/2-General Skills 2/10-First Find.md",
+    "picoCTF/2-General Skills 2/5-useless.md",
+    "picoCTF/2-General Skills 2/4-Static ain't always noise.md",
+    "picoCTF/2-General Skills 2/3-Wave a flag.md",
+    "picoCTF/2-General Skills 2/2-strings it.md",
+    "picoCTF/2-General Skills 2/Untitled.md",
+    "picoCTF/2-General Skills 2/1-Based.md",
     "picoCTF/1-General Skills/10-plumbing.md",
+    "picoCTF/1-General Skills/9-what's a net cat.md",
+    "picoCTF/2-General Skills 2",
     "picoCTF/1-General Skills/8-Obedient Cat.md",
     "picoCTF/1-General Skills/7-Nice netcat....md",
     "picoCTF/1-General Skills/5-First Grep.md",
