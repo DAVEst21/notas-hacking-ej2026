@@ -27,12 +27,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/7-Web 3/2-More SQLi.md",
+                "file": "picoCTF/5-Tarea 2/10-SQLiLite.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2-More SQLi"
+              "title": "10-SQLiLite"
+            }
+          },
+          {
+            "id": "6f2d2e0e4206919f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           }
         ],
@@ -59,7 +69,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -189,20 +199,38 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
     }
   },
   "active": "812ec874da27cf89",
   "lastOpenFiles": [
+    "picoCTF/5-Tarea 2/9-Secrets.md",
+    "picoCTF/5-Tarea 2/8-Roboto Sans.md",
+    "picoCTF/5-Tarea 2/7-Power Cookie.md",
+    "picoCTF/5-Tarea 2/6-WebDecode.md",
+    "picoCTF/5-Tarea 2/5-Unminify.md",
+    "picoCTF/5-Tarea 2/4-Local Authority.md",
+    "picoCTF/5-Tarea 2/3-IntroToBurp.md",
+    "picoCTF/5-Tarea 2/2-Inspect HTML.md",
+    "picoCTF/5-Tarea 2/1-Includes.md",
+    "picoCTF/5-Tarea 2/10-SQLiLite.md",
+    "picoCTF/7-Web 3 1/2-SOAP.md",
+    "picoCTF/5-Tarea 2",
+    "picoCTF/7-Web 3 1/1-MatchTheRegex.md",
+    "picoCTF/7-Web 3 1/3-a.md",
+    "picoCTF/7-Web 3 1/5-.md",
+    "picoCTF/7-Web 3 1/4-Trickster.md",
+    "picoCTF/7-Web 3/2-More SQLi.md",
+    "picoCTF/7-Web 3 1/4-Trickster 1.md",
+    "picoCTF/7-Web 3 1",
     "picoCTF/7-Web 3/2-JaWT Scratchpad.md",
     "picoCTF/7-Web 3/1-Irish-Name-Repo 1.md",
-    "picoCTF/7-Web 3/2-More SQLi.md",
     "picoCTF/6-Web 2/2-Scavenger Hunt.md",
     "picoCTF/7-Web 3",
     "picoCTF/6-Web 2/2-Cookies.md",
@@ -212,24 +240,8 @@
     "picoCTF/4-Tarea 1/10-Special.md",
     "picoCTF/5-Web/6-Client-side-again.md",
     "picoCTF/6-Web 2",
-    "picoCTF/5-Web/5-picobrowser.md",
-    "picoCTF/5-Web/4-dont-use-client-side.md",
-    "picoCTF/5-Web/3-logon.md",
-    "picoCTF/5-Web/2-where are the robots.md",
-    "picoCTF/5-Web/1-Insp3ct0r.md",
     "picoCTF/5-Web",
-    "picoCTF/4-Tarea 1/8-chrono.md",
-    "picoCTF/4-Tarea 1/7-ASCII Numbers.md",
-    "picoCTF/4-Tarea 1/6-Time Machine.md",
-    "picoCTF/4-Tarea 1/5-Commitment Issues.md",
-    "picoCTF/4-Tarea 1/4-Collaborative Development.md",
-    "picoCTF/4-Tarea 1/3-Blame Game.md",
-    "picoCTF/4-Tarea 1/1-Binary Search.md",
-    "picoCTF/3-General Skills 3/1-Super SSH.md",
-    "picoCTF/3-General Skills 3/10-Serpentine.md",
     "picoCTF/4-Tarea 1",
-    "picoCTF/3-General Skills 3/4-convertme.py.md",
-    "picoCTF/3-General Skills 3/6-fixme2.py.md",
     "picoCTF/3-General Skills 3",
     "picoCTF/2-General Skills 2",
     "picoCTF/1-General Skills",
