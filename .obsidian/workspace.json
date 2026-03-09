@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/8-Web 4/5-Most Cookies.md",
+                "file": "picoCTF/10-Forensic 1/1-Glory of the Garden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5-Most Cookies"
+              "title": "1-Glory of the Garden"
             }
           }
         ]
@@ -183,10 +183,21 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "2108f75bb5bfd8c9",
+  "active": "812ec874da27cf89",
   "lastOpenFiles": [
-    "picoCTF/8-Web 4/3-Trickster.md",
+    "picoCTF/10-Forensic 1/2-So Meta.md",
+    "picoCTF/10-Forensic 1/3-shark on wire 1.md",
+    "picoCTF/10-Forensic 1/4-extensions.md",
+    "picoCTF/10-Forensic 1/5-What Lies Within.md",
+    "picoCTF/10-Forensic 1/1-Glory of the Garden.md",
     "picoCTF/8-Web 4/5-Most Cookies.md",
+    "picoCTF/10-Forensic 1/9-Secrets.md",
+    "picoCTF/10-Forensic 1/8-Roboto Sans.md",
+    "picoCTF/10-Forensic 1/7-Power Cookie.md",
+    "picoCTF/10-Forensic 1/6-WebDecode.md",
+    "picoCTF/10-Forensic 1/10-SQLiLite.md",
+    "picoCTF/10-Forensic 1",
+    "picoCTF/8-Web 4/3-Trickster.md",
     "picoCTF/8-Web 4/2-SOAP.md",
     "picoCTF/8-Web 4/1-MatchTheRegex.md",
     "picoCTF/9-Tarea 2/10-SQLiLite.md",
@@ -202,24 +213,13 @@
     "picoCTF/9-Tarea 2/1-Includes.md",
     "picoCTF/9-Tarea 2",
     "picoCTF/7-Web 3 1/4-Trickster.md",
-    "picoCTF/7-Web 3/2-More SQLi.md",
-    "picoCTF/7-Web 3 1/4-Trickster 1.md",
     "picoCTF/8-Web 4",
-    "picoCTF/7-Web 3/2-JaWT Scratchpad.md",
-    "picoCTF/7-Web 3/1-Irish-Name-Repo 1.md",
-    "picoCTF/6-Web 2/2-Scavenger Hunt.md",
     "picoCTF/7-Web 3",
-    "picoCTF/6-Web 2/2-Cookies.md",
-    "picoCTF/6-Web 2/1-GET aHEAD.md",
-    "picoCTF/4-Tarea 1/2-binhexa.md",
-    "picoCTF/4-Tarea 1/9-Permissions.md",
-    "picoCTF/4-Tarea 1/10-Special.md",
     "picoCTF/6-Web 2",
     "picoCTF/5-Web",
     "picoCTF/4-Tarea 1",
     "picoCTF/3-General Skills 3",
     "picoCTF/2-General Skills 2",
-    "picoCTF/1-General Skills",
-    "picoCTF"
+    "picoCTF/1-General Skills"
   ]
 }
