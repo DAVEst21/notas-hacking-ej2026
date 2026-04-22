@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/20-Crypto 3/4-b00tl3gRSA3.md",
+                "file": "picoCTF/21-Crypto 4/4-ReadMyCert.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4-b00tl3gRSA3"
+              "title": "4-ReadMyCert"
             }
           }
         ]
@@ -185,8 +185,15 @@
   },
   "active": "812ec874da27cf89",
   "lastOpenFiles": [
-    "picoCTF/20-Crypto 3/3-b00tl3gRSA2.md",
+    "picoCTF/21-Crypto 4/5-Flags.md",
+    "picoCTF/21-Crypto 4/4-ReadMyCert.md",
+    "picoCTF/21-Crypto 4/3-HideToSee.md",
+    "picoCTF/21-Crypto 4/2-basic-mod1.md",
+    "picoCTF/21-Crypto 4/1-Pixelated.md",
+    "Pasted image 20260422080300.png",
     "picoCTF/20-Crypto 3/4-b00tl3gRSA3.md",
+    "picoCTF/21-Crypto 4",
+    "picoCTF/20-Crypto 3/3-b00tl3gRSA2.md",
     "picoCTF/20-Crypto 3/2-Mini RSA.md",
     "picoCTF/20-Crypto 3/1-Mind your Ps and Qs.md",
     "picoCTF/19-Crypto 2/1-rsa-pop-quiz.md",
@@ -215,14 +222,8 @@
     "picoCTF/Crypto 2/5-What Lies Within.md",
     "picoCTF/Crypto 2/3-picoCTF{qu1t3_a_v13w_2020}.md",
     "picoCTF/Crypto 2/2-WebNet1.md",
-    "picoCTF/19-Crypto 2",
     "Pasted image 20260329234618.png",
-    "picoCTF/12- Forensic 2/5-shark on wire 2.md",
-    "picoCTF/10-Forensic 1/3-shark on wire 1.md",
-    "picoCTF/17-Tarea 4 - Forensic/8-hideme.md",
-    "picoCTF/17-Tarea 4 - Forensic/7-RED.md",
     "Pasted image 20260329213317.png",
-    "picoCTF/17-Tarea 4 - Forensic/5-CanYouSee.md",
     "Pasted image 20260329210120.png",
     "Pasted image 20260329205353.png"
   ]
